@@ -326,7 +326,6 @@ npm test
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
   <img src="https://img.shields.io/badge/PokéAPI-EF5350?style=for-the-badge&logo=pokemon&logoColor=white" alt="PokéAPI" />
 </p>
 
@@ -363,12 +362,16 @@ This project was completed as part of the [Boot.dev](https://www.boot.dev/) back
 
 <p align="center">
   <a href="https://github.com/waleedtarbosh">
-    <img src="assets/github.svg" alt="GitHub" width="24" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:waleedtarbush@gmail.com">📧</a>
-  &nbsp;&nbsp;
-  <a href="https://www.boot.dev/certificates/e79ffcb6-a45d-4fac-b964-5c7c9eef8bcf">🎓</a>
+  &nbsp;
+  <a href="mailto:waleedtarbush@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.boot.dev/certificates/e79ffcb6-a45d-4fac-b964-5c7c9eef8bcf">
+    <img src="https://img.shields.io/badge/Boot.dev-6C47FF?style=for-the-badge&logo=bootdotdev&logoColor=white" alt="Boot.dev" />
+  </a>
 </p>
 
 | | |
